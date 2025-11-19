@@ -1,4 +1,5 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
+#  P̳r̳a̳s̳a̳n̳t̳h̳ R̳a̳n̳g̳a̳n̳
 
 $GTK_THEME=Archane-Dark
 $ICON_THEME = ArchaneIOS
